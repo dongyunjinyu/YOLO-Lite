@@ -7,7 +7,7 @@ YOLO作为最流行的目标检测算法，[ultralytics](https://github.com/ultr
 
 |          | ultralytics官方 | YOLO-Lite |
 |----------|----------|----------|
-| 代码大小     | 3640.5 KB   | 548 KB    |
+| 代码大小     | 3640.5 KB   | 537 KB    |
 | 代码文件数   | 329      | 34       |
 | 功能     | 全部     | YOLO11目标检测 |
 
