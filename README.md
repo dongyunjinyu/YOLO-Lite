@@ -1,4 +1,4 @@
-# YOLO-Lite / YOLO快速版
+# YOLO-Lite / YOLO极速版
 
 YOLO作为最流行的目标检测算法，[ultralytics](https://github.com/ultralytics/ultralytics)引领YOLO的潮流，但是作为一个功能强大的库，ultralytics的代码具有较大的复杂性，
 不便于研究人员在此基础上进行修改。
