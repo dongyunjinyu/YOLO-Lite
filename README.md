@@ -12,3 +12,4 @@ YOLO作为最流行的目标检测算法，[ultralytics](https://github.com/ultr
 | 功能     | 全部     | YOLO11目标检测 |
 
 简化已基本完成。
+此YOLO-Lite和YOLO-LITE不同
